@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="TaskFlow - Streamline your workflow with intelligent task management">
+    <title>TaskFlow - Smart Task Management for Teams</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+        <div class="navbar-container">
+            <div class="logo">
+                <h1>TaskFlow</h1>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="#features" class="nav-link">Features</a></li>
+                <li><a href="#benefits" class="nav-link">Benefits</a></li>
+                <li><a href="#contact" class="nav-link">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-content">
+            <h2 class="hero-headline">Manage Your Tasks Smarter</h2>
+            <p class="hero-subheadline">Streamline your workflow with intelligent task management built for modern teams</p>
+            <button class="cta-button">Get Started Free</button>
+        </div>
+        <div class="hero-image">
+            <div class="placeholder-image"></div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section id="features" class="features">
+        <div class="section-container">
+            <h2 class="section-title">Powerful Features</h2>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">📋</div>
+                    <h3 class="feature-title">Smart Organization</h3>
+                    <p class="feature-description">Organize tasks by project, priority, and deadline with intuitive categorization</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">👥</div>
+                    <h3 class="feature-title">Team Collaboration</h3>
+                    <p class="feature-description">Work together seamlessly with real-time updates and team assignments</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">⏰</div>
+                    <h3 class="feature-title">Time Tracking</h3>
+                    <p class="feature-description">Monitor task progress and time spent to optimize team productivity</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">📊</div>
+                    <h3 class="feature-title">Analytics Dashboard</h3>
+                    <p class="feature-description">Get insights with comprehensive reports and performance metrics</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Benefits Section -->
+    <section id="benefits" class="benefits">
+        <div class="section-container">
+            <h2 class="section-title">Why Choose TaskFlow?</h2>
+            <div class="benefits-content">
+                <div class="benefits-text">
+                    <h3 class="benefits-subtitle">Increase Productivity by 40%</h3>
+                    <p class="benefits-description">
+                        TaskFlow is designed with busy professionals in mind. Our intuitive interface reduces 
+                        time spent managing tasks, allowing your team to focus on what matters most. 
+                        Join thousands of companies already transforming their workflow.
+                    </p>
+                    <ul class="benefits-list">
+                        <li>✓ Reduce meeting time by 50%</li>
+                        <li>✓ Improve task completion rates</li>
+                        <li>✓ Better resource allocation</li>
+                        <li>✓ Transparent progress tracking</li>
+                    </ul>
+                </div>
+                <div class="benefits-image">
+                    <div class="placeholder-image-large"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section class="testimonials">
+        <div class="section-container">
+            <h2 class="section-title">What Our Users Say</h2>
+            <div class="testimonials-grid">
+                <div class="testimonial-card">
+                    <p class="testimonial-text">"TaskFlow has completely transformed how our team works. Highly recommended!"</p>
+                    <p class="testimonial-author">- Sarah Johnson, Project Manager</p>
+                </div>
+                <div class="testimonial-card">
+                    <p class="testimonial-text">"The best task management tool we've used. Simple, powerful, and reliable."</p>
+                    <p class="testimonial-author">- Michael Chen, CEO</p>
+                </div>
+                <div class="testimonial-card">
+                    <p class="testimonial-text">"Incredible support team and amazing features. Worth every penny!"</p>
+                    <p class="testimonial-author">- Emma Davis, Team Lead</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Call-to-Action Section -->
+    <section class="cta-section">
+        <div class="section-container">
+            <h2 class="cta-title">Ready to Transform Your Workflow?</h2>
+            <p class="cta-subtitle">Start your free 14-day trial today. No credit card required.</p>
+            <button class="cta-button cta-button-large">Start Free Trial</button>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer id="contact" class="footer">
+        <div class="section-container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3 class="footer-title">TaskFlow</h3>
+                    <p class="footer-description">Smart task management for modern teams</p>
+                </div>
+                <div class="footer-section">
+                    <h4 class="footer-heading">Product</h4>
+                    <ul class="footer-links">
+                        <li><a href="#features">Features</a></li>
+                        <li><a href="#">Pricing</a></li>
+                        <li><a href="#">Security</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4 class="footer-heading">Company</h4>
+                    <ul class="footer-links">
+                        <li><a href="#">About</a></li>
+                        <li><a href="#">Blog</a></li>
+                        <li><a href="#">Careers</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4 class="footer-heading">Connect</h4>
+                    <ul class="footer-links">
+                        <li><a href="https://twitter.com" target="_blank">Twitter</a></li>
+                        <li><a href="https://linkedin.com" target="_blank">LinkedIn</a></li>
+                        <li><a href="https://github.com" target="_blank">GitHub</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 TaskFlow. All rights reserved. | <a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a></p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
