@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="TaskFlow - Streamline your workflow with intelligent task management">
-    <title>TaskFlow - Smart Task Management for Teams</title>
+    <meta name="description" content="Gayathri - Web Development & Designing project">
+    <title>Gayathri | Web Development & Designing</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -12,7 +12,7 @@
     <nav class="navbar">
         <div class="navbar-container">
             <div class="logo">
-                <h1>TaskFlow</h1>
+                <h1>Gayathri</h1>
             </div>
             <ul class="nav-menu">
                 <li><a href="#features" class="nav-link">Features</a></li>
@@ -25,9 +25,9 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h2 class="hero-headline">Manage Your Tasks Smarter</h2>
-            <p class="hero-subheadline">Streamline your workflow with intelligent task management built for modern teams</p>
-            <button class="cta-button">Get Started Free</button>
+            <h2 class="hero-headline">Web Development & Designing</h2>
+            <p class="hero-subheadline">Track 1 project by Gayathri. A modern landing page demo designed for a polished product showcase.</p>
+            <button class="cta-button">View Project</button>
         </div>
         <div class="hero-image">
             <div class="placeholder-image"></div>
